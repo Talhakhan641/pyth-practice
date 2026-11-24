@@ -38,7 +38,7 @@ No third-party packages or dependencies are required.
 3. Navigate to the application directory:
 
 ```powershell
-cd C:\Users\talha\Downloads\app
+cd app
 ```
 
 4. Install the project dependencies:
