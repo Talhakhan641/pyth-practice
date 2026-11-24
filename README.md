@@ -21,15 +21,15 @@ No third-party packages or dependencies are required.
 
 ## Project structure
 
-| File | Purpose |
-| --- | --- |
-| `main.py` | Starts the application and displays the interactive menu. |
-| `manager.py` | Loads, saves, adds, completes, and deletes tasks. |
-| `task.py` | Defines the `Task` class and task display format. |
-| `tasks.json` | Stores all saved tasks in JSON format. |
-| `requirements.txt` | Lists third-party Python dependencies (none currently). |
-| `.gitignore` | Excludes Python, virtual environment, and local task data files from Git. |
-| `README.md` | Contains setup and usage documentation. |
+| File                 | Purpose                                                                   |
+| -------------------- | ------------------------------------------------------------------------- |
+| `main.py`          | Starts the application and displays the interactive menu.                 |
+| `manager.py`       | Loads, saves, adds, completes, and deletes tasks.                         |
+| `task.py`          | Defines the `Task` class and task display format.                       |
+| `tasks.json`       | Stores all saved tasks in JSON format.                                    |
+| `requirements.txt` | Lists third-party Python dependencies (none currently).                   |
+| `.gitignore`       | Excludes Python, virtual environment, and local task data files from Git. |
+| `README.md`        | Contains setup and usage documentation.                                   |
 
 ## Setup and running
 
